@@ -1,1 +1,5 @@
 # masican15.github.io.
+1. My name is Melissa Sican and my email address is masican@my.waketech.edu
+2. My Github currently has one new repository. My username is masican15. If I open my repository I can add code and Github will update me on those additions and edits. 
+3. The repository I created is in my account which was created on the Internet. I clicked on the plus sign and then clicked on "New Repository." This allowed me to name my repository and check for readme file. 
+4. I first downloaded Github to my desktop. Once I was able to sign in, I clicked on "Clone Repository from the Internet" which opened up a new window within the application. From there I chose which repository I was going to clone and its designated home on my laptops hard drive. After that, I clicked on "Clone." This created a copy of my repository onto my local machine. 
